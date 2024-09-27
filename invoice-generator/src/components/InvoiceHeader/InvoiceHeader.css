@@ -5,9 +5,16 @@ header {
     background-color: transparent;
     padding-top: 30px;
     padding-bottom: 30px;
-    z-index: 3;
+    z-index: 2;
 }
 
 .headerContainer {
-    width: 100%;
+    width: 84%;
+    margin: auto;
+    color: white;
+}
+
+header h1 {
+    font-weight: 700;
+    font-size: 30px;
 }
